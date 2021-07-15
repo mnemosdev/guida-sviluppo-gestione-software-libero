@@ -28,6 +28,11 @@ i seguenti:
 * Inserimento della modifica
 
   All’interno del proprio fork è possibile inserire le modifiche desiderate.
+  
+* Creazione di un branch
+
+  Dopo il fork sarà utile creare un nuovo ramo di sviluppo che descriva in maniera sintetica
+  la modifica che si vuole applicare (bug fix, feature)
 
 * Apertura di una Pull/Merge Request
 
